@@ -1,8 +1,14 @@
-<img width="1280" height="490" alt="ayoublksna@hotmail.com  -  signature" src="https://github.com/user-attachments/assets/309eaf7b-587c-44bf-9371-5a3da5aec90e" />
+
+
+<img width="1280" height="514" alt="ScreenRecording2026-10-05160130-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/d2d56029-1f69-48b8-a8e2-120288236b3e" />
+
 <img width="1280" height="724" alt="services  -  dev devops ai" src="https://github.com/user-attachments/assets/9640f465-933d-44ba-8b4f-2fd3edb1f466" />
 <img width="1280" height="544" alt="details about each service" src="https://github.com/user-attachments/assets/5dc6cd37-d41b-4013-a778-62a3002648b0" />
 <img width="1280" height="54" alt="logos of techniques i work with" src="https://github.com/user-attachments/assets/db3765a3-5491-406d-9fbe-1e03c88b6a48" />
-<img width="1280" height="680" alt="phone and email and contacts" src="https://github.com/user-attachments/assets/27425bc6-809e-4a56-a2b6-a1d9d670a307" />
+
+
+<img width="1280" height="812" alt="ScreenRecording2026-10-05154809-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/90da8c4a-6a9c-4e78-860e-c7aa02c46adb" />
+
 
 
 
@@ -10,7 +16,7 @@
 
 
 <p align="center">
-<a href="https://ayoublksna.is-a.dev/">
+<a href="https://ayoublksna.com/">
   <img src="https://img.shields.io/badge/PORTFOLIO-F1F0EC?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=F1F0EC">
 </a>
 <a href="https://www.linkedin.com/in/ayoub-lksna/">
@@ -19,10 +25,10 @@
 <a href="https://github.com/ayoublksna">
   <img src="https://img.shields.io/badge/GITHUB-F1F0EC?style=for-the-badge&logo=github&logoColor=000000&labelColor=F1F0EC">
 </a>
-<a href="https://wa.me/YOUR_PHONE_NUMBER">
+<a href="https://wa.me/212661675867">
   <img src="https://img.shields.io/badge/WHATSAPP-F1F0EC?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=F1F0EC">
 </a>
-<a href="mailto:ayoublksna@hotmail.com">
+<a href="mailto:me@ayoublksna.com">
   <img src="https://img.shields.io/badge/EMAIL-F1F0EC?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=F1F0EC">
 </a>
 </p>
